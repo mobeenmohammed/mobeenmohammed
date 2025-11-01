@@ -50,23 +50,23 @@ This is a relatively new account, I'm adding projects as I learn.
 ## GitHub Stats
 
 <div align="center">
-  <div style="display:flex;justify-content:center;align-items:stretch;gap:0;width:100%;max-width:1000px;">
+  <div style="display:flex;justify-content:center;align-items:stretch;gap:8px;width:100%;max-width:800px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mobeenmohammed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
       alt="GitHub stats"
-      style="flex:1;height:195px;object-fit:contain;margin:0;padding:0;border:0;" />
+      style="flex:1;height:170px;object-fit:contain;margin:0;padding:0;border:0;" />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobeenmohammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,html,css"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobeenmohammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,html,css&card_width=420"
       alt="Top languages"
-      style="flex:1;height:195px;object-fit:contain;margin:0;padding:0;border:0;" />
+      style="flex:1;height:170px;object-fit:contain;margin:0;padding:0;border:0;" />
   </div>
 </div>
+
+---
+
+<p align="center"><sub>Thanks for visiting!</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/aurora.svg" />
   <img alt="Aurora banner" src="assets/aurora-light.svg" />
 </picture>
-
----
-
-<p align="center"><sub>Thanks for visiting!</sub></p>
