@@ -50,17 +50,18 @@ This is a relatively new account, I'm adding projects as I learn.
 ## GitHub Stats
 
 <div align="center">
-  <div style="display:flex;justify-content:center;align-items:stretch;gap:8px;width:100%;max-width:800px;">
+  <div style="display:flex;justify-content:center;align-items:stretch;gap:6px;width:100%;max-width:680px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=mobeenmohammed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
       alt="GitHub stats"
-      style="flex:1;height:170px;object-fit:contain;margin:0;padding:0;border:0;" />
+      style="flex:1;height:140px;object-fit:contain;margin:0;border:0;padding:0;" />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobeenmohammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,html,css&card_width=420"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobeenmohammed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&hide=jupyter%20notebook,html,css&card_width=320"
       alt="Top languages"
-      style="flex:1;height:170px;object-fit:contain;margin:0;padding:0;border:0;" />
+      style="flex:1;height:140px;object-fit:contain;margin:0;border:0;padding:0;" />
   </div>
 </div>
+
 
 ---
 
